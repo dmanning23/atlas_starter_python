@@ -1,0 +1,81 @@
+repo_name: dmanning23/atlas_starter_python
+report_id: d3c0d43961ba61f329853edb33b3afa8
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-15T14:43:21+00:00'
+requested_by: dmanning23
+provider: github
+branch: master
+detected_tools_count: 6
+tools:
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/dmanning23/atlas_starter_python
+  detection_source: Repo Metadata
+- name: MongoDB
+  description: The database for giant ideas
+  website_url: http://www.mongodb.com/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1030/leaf-360x360.png
+  detection_source_url: https://github.com/dmanning23/atlas_starter_python/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Dan Manning
+  last_updated_on: 2023-12-11 18:58:45.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/dmanning23/atlas_starter_python
+  detection_source: Repo Metadata
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/dmanning23/atlas_starter_python/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Dan Manning
+  last_updated_on: 2023-12-11 18:58:45.000000000 Z
+- name: mongoengine
+  description: MongoEngine is a Python Object-Document Mapper for working with MongoDB
+  package_url: https://pypi.org/project/mongoengine
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20205/default_efffdba05724e2e5174a1a195cbf53e4099f40b6.png
+  detection_source_url: https://github.com/dmanning23/atlas_starter_python/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Dan Manning
+  last_updated_on: 2023-12-11 18:58:45.000000000 Z
+- name: pymongo
+  description: Python driver for MongoDB &lt;http://www.mongodb.org&gt;
+  package_url: https://pypi.org/project/pymongo
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19865/default_7975a21f3bf03129dc3bc4168cf7cb7ee2cc14cc.png
+  detection_source_url: https://github.com/dmanning23/atlas_starter_python/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Dan Manning
+  last_updated_on: 2023-12-11 18:58:45.000000000 Z
